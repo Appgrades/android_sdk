@@ -3,7 +3,7 @@
 </p>
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](https://docs.appgrades.io/appgrades_io)
-[![Version](https://img.shields.io/badge/version-v1.0.0-orange.svg)](https://docs.appgrades.io/appgrades_io)
+[![Version](https://img.shields.io/badge/version-v1.1.0-orange.svg)](https://docs.appgrades.io/appgrades_io)
 [![Licence](https://img.shields.io/badge/licence-Commercial-lightgray.svg)](https://docs.appgrades.io/appgrades_io)
 [![Twitter](https://img.shields.io/badge/twitter-@appgrades_io-blue.svg?style=flat)](https://twitter.com/appgrades_io)
 
@@ -25,6 +25,17 @@ Choose Appgrades for all your projects, you never know when you will really need
 
 
 ## Installation
+### Integrate the SDK from Maven Central
+
+
+```groovy
+dependencies {
+    compile 'io.appgrades:appgrades:1.1.0@aar'
+}
+```
+
+
+### Manual integration
 
 #### Download the SDK
 
